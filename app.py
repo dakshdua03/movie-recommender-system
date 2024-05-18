@@ -71,7 +71,7 @@ else:
     st.sidebar.title("Developer")
     st.sidebar.info(
         """
-        Developed by [Your Name](https://www.linkedin.com/in/your-profile-link/). 
+        Developed by [Daksh Dua](https://www.linkedin.com/in/dakshdua03/). 
         Feel free to connect!
         """
     )
